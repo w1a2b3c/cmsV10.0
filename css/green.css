@@ -1,0 +1,80 @@
+@charset "utf-8";
+.ui-topbar .nav ul li ul li a:hover{background:#67B62D;}
+.search .ui-form-ip{border-color:#67B62D;}
+.search .ui-form-ip:focus{box-shadow:none;}
+.search .after{background:#67B62D;border:2px solid #67B62D;}
+.mincart i{color:#67B62D;}
+.mincart>a:hover{color:#67B62D;}
+.mincart em{background:#67B62D;}
+.topnav .leftnav{background:#67B62D;}
+.home_nav{background:#67B62D;}
+.topnav .navs ul li a:hover{color:#67B62D;}
+.topnav .navs ul li.active a{color:#67B62D;border-bottom-color:#67B62D;}
+.banner .bslide .userinfo .logintxt p a{border:1px solid #67B62D;color:#67B62D;}
+.banner .bslide .userinfo .logintxt p a:hover{background:#67B62D;}
+.banner .bslide .icon .ui-col-3 a i{color:#67B62D;}
+.home_title .limit .endtime i{background:#666;}
+.home_goods .ui-tabs-header-subject{border-bottom:1px solid #67B62D;}
+.home_goods .ui-tabs-nav li.active{border:1px solid #67B62D;border-bottom-color:#fff;}
+.home_goods .ui-tabs-nav li.active a{color:#67B62D;}
+.why .ui-col-3 i{color:#67B62D;}
+.footnavs .ui-col-3 .tel{color:#67B62D;}
+.goods_image .small ul li.active{border-color:#67B62D;}
+.goods_image .small ul li.active:before{border-left-color:#67B62D;border-top-color:#67B62D;}
+.goods_show .limit{background:linear-gradient(90deg,#67B62D 1%,#4FBE19 60%);}
+.goods_show .skushow p{background:#67B62D;}
+.goods_show .skushow li dl dt:hover{border:1px solid #67B62D;}
+.goods_show .skushow li dl dt:hover a{color:#67B62D;}
+.goods_show .skushow li dl dt.selected{border:1px solid #67B62D;}
+.goods_show .skushow li dl dt.selected a{color:#67B62D;}
+.goods_show .skushow li dl dt.selected:before{color:#67B62D;border-bottom:20px solid #67B62D;}
+.goods_show .sku_selected{border:1px solid #67B62D;}
+.goods_suit .ui-tabs-nav li a{border-top:0px solid #67B62D;padding:10px 25px;}
+.score_bar ul .active{border-bottom:2px solid #67B62D;color:#67B62D;}
+.usernav ul .hover a{background:#67B62D;}
+.usernav ul .hover a:hover{background:#67B62D;}
+.api_user span{color:#67B62D;}
+.user_address ul .hover:before{color:#67B62D;border-top:50px solid #67B62D;}
+.cart .nogoods a{color:#67B62D;border:1px solid #67B62D;}
+.cart .nogoods a:before{background:#67B62D;}
+.cart_order .address ul .hover:before{color:#67B62D;border-top:50px solid #67B62D;}
+.ordershow .pay .active div:before{color:#67B62D;border-bottom:30px solid #67B62D;}
+.coupon-top span{color:#67B62D;}
+.coupon-top a:hover{background:#67B62D;border-color:#67B62D;}
+
+.user_address ul .hover{border-color:#E3F0D2;}
+.cart_order .address ul .hover{border-color:#E3F0D2;}
+
+.frinedlink a:hover{border-color:#67B62D;}
+
+.ui-menu-blue .ui-menu-name{border-color:#67B62D;color:#67B62D;}
+.ui-btn:hover{color:#67B62D;border-color:#67B62D;}
+.ui-btn-blue{background:#67B62D;border-color:#67B62D;}
+.ui-btn-blue:hover{background:#4FBE19;border-color:#4FBE19;color:#fff;}
+.ui-btn-yellow:hover{background:#F3710A;border-color:#F3710A;color:#fff;}
+
+a.ui-btn-blue{background:#67B62D;border-color:#67B62D;}
+a:hover.ui-btn-blue{background:#FF6C47;border-color:#FF6C47;color:#fff;}
+.ui-btn-info{background:#67B62D;border-color:#67B62D;}
+.ui-btn-info:hover{background:#FF6C47;border-color:#FF6C47;color:#fff;}
+.ui-page ul li.active{border-color:#67B62D;background:#67B62D;}
+.ui-page ul li.active a{background:#67B62D;}
+.ui-page ul li.active a:hover{background:#67B62D;}
+.ui-orderby ul li a:hover{color:#67B62D;}
+.ui-orderby ul li.active a{background:#67B62D;border-right-color:#67B62D;color:#fff;}
+.ui-filter a:hover,.ui-filter a.active{border-color:#67B62D;color:#67B62D;}
+.ui-checkbox input[type="checkbox"] + i:after{border-color:#67B62D;}
+.ui-checkbox input[type="checkbox"]:checked + i:after{background:#67B62D;border-color:#67B62D;}
+.ui-radio input[type="radio"]:checked + i{border-color:#67B62D;}
+.ui-radio input[type="radio"]:checked + i:after{background:#67B62D;}
+.ui-bar{background:#67B62D;}
+.ui-inputnumber-min:hover,.ui-inputnumber-max:hover{color:#67B62D;border-color:#67B62D;}
+.ui-inputnumber-wrap:hover{border-color:#67B62D;}
+.ui-progress-blue .ui-progress-bar{background:#67B62D;}
+.ui-btn-yellow:hover{color:#fff;}
+
+.righter .ui-tabs .ui-tabs-nav li a:hover{color:#67B62D;}
+.righter .ui-tabs .ui-tabs-nav li.active{border-color:#67B62D;}
+.righter .ui-tabs .ui-tabs-nav li.active a{color:#67B62D;}
+
+a.ui-btn-blue{color:#fff;}
